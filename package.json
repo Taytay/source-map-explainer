@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "source-map-utils",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "source-map": "^0.1.33",
+    "string": "^1.9.1",
+    "line-reader": "^0.2.4"
+  }
+}
